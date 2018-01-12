@@ -1,0 +1,3 @@
+FIX:
+makefile.unix:198: recipe for target 'obj/rpcrawtransaction.o' failed
+make: *** [obj/rpcrawtransaction.o] Error 1
